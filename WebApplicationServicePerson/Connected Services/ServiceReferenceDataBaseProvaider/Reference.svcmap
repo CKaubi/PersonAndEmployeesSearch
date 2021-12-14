@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6057db02-a8ab-4b7a-8f4d-2bc3a8d2a818" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/DataBaseProvaider/DataBaseProvaider.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DataBaseProvaider.xsd" MetadataType="Schema" ID="9afb8fa4-33d1-4297-bbc9-250837179fb3" SourceId="1" SourceUrl="http://localhost/DataBaseProvaider/DataBaseProvaider.svc?xsd=xsd2" />
+    <MetadataFile FileName="DataBaseProvaider1.xsd" MetadataType="Schema" ID="b05627bc-7a25-4397-a4a1-7de9fde6d96c" SourceId="1" SourceUrl="http://localhost/DataBaseProvaider/DataBaseProvaider.svc?xsd=xsd1" />
+    <MetadataFile FileName="DataBaseProvaider.wsdl" MetadataType="Wsdl" ID="0bb27929-d885-487a-80f5-262f0a17b3c0" SourceId="1" SourceUrl="http://localhost/DataBaseProvaider/DataBaseProvaider.svc?wsdl" />
+    <MetadataFile FileName="DataBaseProvaider2.xsd" MetadataType="Schema" ID="ce59e757-c8d3-4d59-8a73-480965b80447" SourceId="1" SourceUrl="http://localhost/DataBaseProvaider/DataBaseProvaider.svc?xsd=xsd0" />
+    <MetadataFile FileName="DataBaseProvaider.disco" MetadataType="Disco" ID="028ada94-cc93-4d8e-af62-3732a28fd898" SourceId="1" SourceUrl="http://localhost/DataBaseProvaider/DataBaseProvaider.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

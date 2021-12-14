@@ -1,0 +1,56 @@
+﻿body 
+{
+    width: 1242px; 
+margin-left: 383px;
+}
+.styleForResultPanelBaseForm {
+    margin-left: 300px;
+    margin-bottom: 0px;
+}
+.TextBoxInputChar {
+    Height : 30px; Width:200px;
+}
+.PanelInformation {
+    Height:16px; Width:347px;
+}
+.LabelHelp {
+    width: 928px;
+    height: 44px;
+}
+.divButtons {
+    height: 48px; width: 214px; margin-left: 438px;
+    margin-top: 23px;
+}
+.ButtonAny {
+    margin-left: 69px;
+}
+.pLabelInformationAfterInput {
+    width: 499px;
+    margin-left: 297px;
+    margin-top: 16px;
+}
+.LabelOutRezult {
+    width: 499px;
+    margin-left: 297px;
+}
+
+.bodyStyleForPersonInfo {
+    height: 166px;
+    width: 596px;
+    margin-left: 100px;
+    margin-top: 254px;
+    margin-bottom: 39px;
+}
+.GridPersonInfo {
+    height: 166px;
+    width: 596px;
+    margin-left: 100px;
+    margin-top: 254px;
+    margin-bottom: 39px;
+}
+.default {
+    height: 0;
+    width: 0;
+   
+    margin-left:0;
+}
